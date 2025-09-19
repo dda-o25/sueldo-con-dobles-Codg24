@@ -18,7 +18,7 @@ horas_extras = 0
 sueldo_extra = 0
 
 # Entradas
-horas_trabajadas = int(input("Horas trabajadas: "))
+horas_trabajadas = float(input("Horas trabajadas: "))
 tarifa = float(input("Tarifa por hora: "))
 
 # Proceso
