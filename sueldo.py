@@ -1,5 +1,4 @@
 """
-Integrantes
 Carlos Osvaldo Díaz García
 
 Fecha
